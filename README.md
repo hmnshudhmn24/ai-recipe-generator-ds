@@ -1,7 +1,7 @@
 
 # AI-Powered Recipe Generator
 
-This is a Python-based AI-powered recipe generator that suggests recipes based on the user's available ingredients.
+A simple AI-powered command-line application that suggests recipes based on user-provided ingredients. It identifies exact and partial matches from a built-in recipe database and provides step-by-step cooking instructions for each suggested recipe.
 
 ## Features
 
